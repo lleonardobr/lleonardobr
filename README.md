@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on ...
   
 - 🌱 I’m currently learning ...
+- If the implementation is hard to explain, it's a bad idea.
 
 <!--
 **lleonardobr/lleonardobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
