@@ -4,6 +4,11 @@
   
 - 🌱 I’m currently learning ...
 - If the implementation is hard to explain, it's a bad idea.
+ <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+ <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
+ <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'>
+ <img src='https://github-readme-stats.vercel.app/api?username={lleonardobr}&theme=blue-green'>
+ 
 
 <!--
 **lleonardobr/lleonardobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
