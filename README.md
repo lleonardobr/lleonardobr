@@ -4,9 +4,9 @@
   
 - 🌱 I’m currently learning ...
 - If the implementation is hard to explain, it's a bad idea.
- <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
- <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
- <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'>
+ <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' style='display: inline-block; margin-right: 10px;'>
+ <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' style='display: inline-block; margin-right: 10px;'>
+ <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' style='display: inline-block;'>
  
 
 <!--
